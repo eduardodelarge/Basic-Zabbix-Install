@@ -82,4 +82,5 @@ Username: Admin
 Password: zabbix
 ```
 
-<img width="1911" height="988" alt="image" src="https://github.com/user-attachments/assets/7c533922-2852-4ca4-abaf-9e2c5ba30120" />
+<img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/ab8ba78e-f1cb-4b4f-a683-dd9aeaf80654" />
+
